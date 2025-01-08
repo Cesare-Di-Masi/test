@@ -1,0 +1,22 @@
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.deps.json
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.dll
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.pdb
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.AssemblyInfoInputs.cache
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.AssemblyInfo.cs
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.csproj.CoreCompileInputs.cache
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.dll
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\refint\DishesLib.dll
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.pdb
+C:\Users\Cesare\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\ref\DishesLib.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.deps.json
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\bin\Debug\net8.0\DishesLib.pdb
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.AssemblyInfoInputs.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.AssemblyInfo.cs
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.csproj.CoreCompileInputs.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\refint\DishesLib.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\DishesLib.pdb
+C:\Users\cesare.di masi\source\repos\DishesLib\DishesLib\obj\Debug\net8.0\ref\DishesLib.dll

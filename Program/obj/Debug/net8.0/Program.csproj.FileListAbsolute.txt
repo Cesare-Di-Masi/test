@@ -1,0 +1,36 @@
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.exe
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.dll
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\DishesLib.dll
+C:\Users\Cesare\source\repos\DishesLib\Program\bin\Debug\net8.0\DishesLib.pdb
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.dll
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\Cesare\source\repos\DishesLib\Program\obj\Debug\net8.0\ref\Program.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.exe
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\DishesLib.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\bin\Debug\net8.0\DishesLib.pdb
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.AssemblyReference.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.csproj.Up2Date
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\cesare.di masi\source\repos\DishesLib\Program\obj\Debug\net8.0\ref\Program.dll
